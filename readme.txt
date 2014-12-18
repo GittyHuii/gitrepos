@@ -1,5 +1,5 @@
 git is a version control system.
-git is free software.
+git is a free software.
 git tracks changes.
 ok, let me do something.
 createing a new branch is quick.
